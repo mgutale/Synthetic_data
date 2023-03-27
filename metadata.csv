@@ -1,0 +1,10 @@
+,dtype,description,values,min,max,mean,std
+Location,object,,"['Bournemouth', 'London', 'Manchester', 'Liverpool', 'Leeds']",,,,
+CustomerID,int64,,[],1.0,100000.0,50000.5,28867.513458037913
+Age,int64,,[],-2.0,83.0,39.54221,9.995933088806666
+Gender,object,,"['Male', 'Female']",,,,
+Subscription Type,object,,"['Gold', 'Silver', 'Diamond', 'Copper']",,,,
+Subscription Subtype,object,,"['A', 'B', 'C']",,,,
+Fee,float64,,[],-0.17,40.52,19.991955700000002,4.993703763564425
+Activity,object,,"['gym', 'swim', 'fitness classes']",,,,
+Mosaic_profile,int64,,[],1.0,75.0,38.00456,21.628960659412186
